@@ -1,0 +1,45 @@
+#aboutme {
+    padding-bottom: 5rem;
+    text-align: center;
+}
+
+.aboutme_container {
+    width: 100%;
+    display: block;
+}
+
+.aboutme_container p {
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+
+.aboutme_contact_icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.5rem;
+}
+
+.aboutme_contact_icons>div{
+    padding: 0 10px;
+}
+
+.aboutme_contact_icons img{
+    width: 30px;
+    cursor: pointer;
+}
+
+.aboutme_contact_icons .linkedin{
+    border-radius: 5px;
+}
+
+.download_cv {
+    margin-top: 1.5rem;
+}
+
+@media (max-width: 767px) {
+    .aboutme_container p {
+        width: 100%;
+    }
+}
