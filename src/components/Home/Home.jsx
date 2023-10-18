@@ -21,7 +21,7 @@ function Home() {
                 </div>
                 <div class="home_right">
                     <Suspense fallback={<div class="suspense_loading"></div>}>
-                        <Spline scene="https://prod.spline.design/Vd6Wx1YGG9Lkkjfa/scene.splinecode" />
+                        <Spline scene="https://prod.spline.design/P-qj87gxiuSA4MKZ/scene.splinecode" />
                     </Suspense>
                 </div>
             </div>
