@@ -42,7 +42,7 @@ function Projects() {
                                     </div>
                                 </div>
                                 <div class="projects_skills_right">
-                                    <a href="https://github.com/longhangyu-matthew" target="_blank" rel="noreferrer noopener"><img src={github_icon} alt="Github" class="github"/></a>
+                                    <a href="https://github.com/longhangyu-matthew/react-portfolio" target="_blank" rel="noreferrer noopener"><img src={github_icon} alt="Github" class="github"/></a>
                                 </div>
                             </div>
                         </div>
