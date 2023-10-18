@@ -96,7 +96,6 @@ const Contact = () => {
                         >
                             Send me a message
                         </button>
-                        <input type="hidden" name="_next" value="https://longhangyu-matthew.github.io/react-portfolio/"></input>
                     </form>
                 </div>
             </div>
