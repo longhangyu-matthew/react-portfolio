@@ -1,5 +1,6 @@
 import "./Header.css";
 import logo from "../../assets/logo.svg";
+import cv from '../../assets/Resume_06102023.pdf'
 
 function Header() {
     return (
@@ -13,7 +14,7 @@ function Header() {
                     <a href="#contact">Contact</a>
                 </div>
                 <div class="mobile_nav_lower">
-                    <button class="download_cv">Download CV <i class="bx bx-download"></i></button>
+                    <a href={cv} download class="button download_cv">Download CV</a>
                 </div>
             </div>
             <nav class="header_nav container">
