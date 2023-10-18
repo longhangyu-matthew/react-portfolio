@@ -24,7 +24,7 @@ function Projects() {
                                 <h4>React Portfolio</h4>
                             </div>
                             <div class="description">
-                                The  website you are currently viewing. My first react project featuring <a href="https://spline.design/" target="_blank" rel="noreferrer noopener">Spline</a> - a free 3D design software that allows user to create interactive experiences within the browser. The theme of this website is inspired by <a href="https://drop.com/buy/drop-mito-gmk-laser-custom-keycap-set" target="_blank" rel="noreferrer noopener">Laser</a>, a cyberpunk themed custom keycap set.
+                                The  website you are currently viewing. My first React project featuring <a href="https://spline.design/" target="_blank" rel="noreferrer noopener">Spline</a> - a free 3D design software that allows user to create interactive experiences within the browser. The theme of this website is inspired by <a href="https://drop.com/buy/drop-mito-gmk-laser-custom-keycap-set" target="_blank" rel="noreferrer noopener">Laser</a>, a cyberpunk themed custom keycap set.
                             </div>
                             <div class="projects_skills">
                                 <div class="projects_skills_left">
