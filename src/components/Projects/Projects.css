@@ -128,7 +128,15 @@
     }
 
     .projects_content_container .description {
-        height: 250px;
+        height: 180px;
+    }
+
+    .projects_content_container .description .wrapper {
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 7;
+        white-space: pre-wrap;
     }
 }
 
@@ -137,7 +145,11 @@
         grid-template-columns: 1fr 1fr;
     }
 
-    .projects_content_container .description {
-        height: 200px;
+    .projects_content_container .description .wrapper {
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 6;
+        white-space: pre-wrap;
     }
 }
